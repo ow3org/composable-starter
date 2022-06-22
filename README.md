@@ -38,7 +38,7 @@ This Starter Kit comes pre-configured with the following:
 - [Powerful Build Engine](https://github.com/unjs/unbuild) - via unbuild
 - [Fully Typed APIs](https://www.typescriptlang.org/) - via TypeScript 4.7
 - [Be a Good Commitizen](https://www.npmjs.com/package/git-cz) - pre-configured Commitizen & git-cz setup to simplify semantic git commits, versioning, and changelog generations
-- [Built With Testing In Mind](https://github.com/vitest-dev/vitest) - pre-configured unit-testing powered by [Vitest](https://github.com/vitest-dev/vitest) & e2e-testing by [Cypress](https://cypress.io/)
+- [Test Driven Development](https://github.com/vitest-dev/vitest) - unit-testing powered by [Vitest](https://github.com/vitest-dev/vitest)
 - [Renovate](https://renovatebot.com/) - optimized & automated PR dependency updates
 - [GitHub Actions](https://github.com/features/actions) - runs your CI (fixes code style issues, tags releases & creates its changelogs, runs the test suite, etc.
 
