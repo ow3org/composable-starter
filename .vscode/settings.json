@@ -81,6 +81,7 @@
     "unref",
     "deps",
     "codecov",
-    "openwebstacks"
+    "openwebstacks",
+    "treeshakeable"
   ]
 }
