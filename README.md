@@ -1,4 +1,4 @@
-<p align="center"><img src=".github/art/cover_composable_starter.png" alt="Social Card of Composable Starter"></p>
+<p align="center"><img src="https://github.com/openwebstacks/ts-starter/blob/main/.github/art/cover_ts_starter.png?raw=true" alt="Social Card of Composable Starter"></p>
 
 [![npm version][npm-version-src]][npm-version-href]
 [![GitHub Actions][github-actions-src]][github-actions-href]
