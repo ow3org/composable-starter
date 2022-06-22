@@ -5,13 +5,13 @@
   "description": "A composable starter kit that makes a great DX.",
   "author": "Chris Breuer <chris@ow3.org>",
   "license": "MIT",
-  "homepage": "https://github.com/openwebstacks/ts-starter#readme",
+  "homepage": "https://github.com/openwebstacks/composable-starter#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/openwebstacks/ts-starter.git"
+    "url": "git+https://github.com/openwebstacks/composable-starter.git"
   },
   "bugs": {
-    "url": "https://github.com/openwebstacks/ts-starter/issues"
+    "url": "https://github.com/openwebstacks/composable-starter/issues"
   },
   "keywords": [
     "typescript",
